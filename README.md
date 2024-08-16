@@ -44,9 +44,13 @@ For each test, we
 Then, we calculated the following indices for each cycle: secant shear modulus (Gsec), strain amplitude (SA), area in the curve (AC), and viscous energy damping ratio (VR). This can be seen in 
 the ```CountCycles.py``` file.
 
+![5_3 (2) - Shear Stress v. Shear Strain](https://github.com/SanikaA3/Extreme-Events-Engineering-VIP/blob/main/5_3%20(2)%20-%20Shear%20Stress%20v.%20Shear%20Strain.png)
+
 ### Task 2: Tangent Modulus Variation
 
 In ```TangentialModulus.py```, we plotted the tangent modulus variation.
+
+![5_3 (8) Tangent Shear Modulus v. Shear Strain](https://github.com/SanikaA3/Extreme-Events-Engineering-VIP/blob/main/5_3%20(8)%20Tangent%20Shear%20Modulus%20v.%20Shear%20Strain.png)
 
 ## Project 2: Using CPT Simulations to Predict Subsurface Conditions
 
